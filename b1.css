@@ -1,0 +1,65 @@
+.phan1{
+    width: 30%;
+}
+.row{
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 22px;
+    box-shadow: 0 0 10px 10px rgb(0 0 0 / 20%);
+}
+.gioithieu{
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px 8px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+}
+.gioithieu1{
+    padding: 20px
+}
+.sothich{
+    background-color: #f5f5f5;
+    padding: 3px 8px;
+    border-radius: 4px;
+    color: #333;
+    margin-right: 6px;
+    margin-bottom: 6px;
+    float: left;
+}
+.phan2{
+    width: 70%;
+    float: right;
+    color: #444;
+    min-height: 560px;
+}
+.phan2-right{
+    padding-top: 20px;
+    padding-right: 16px;
+    width: 100%;
+    padding-left: 50px;
+}
+.left{
+    float: left;
+}
+.noidung{
+    margin-left: 16px;
+    width: 100%;
+    float: left;
+}
+.nghenghiep{
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    flex-direction: row;
+    padding:5px 0;
+}
+.icon{
+    width: 8px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: #00b14f;
+    margin-left: -4px;
+}
+.col-lg-4 .col-md-4{
+    padding-left:25px;
+}
